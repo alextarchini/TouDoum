@@ -42,10 +42,10 @@
                     <a class="nav-link" href="./index.php"><i class="fas fa-home fa-2x"></i> <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="btn btn-rounded" style="margin:5">Films</a>
+                    <a href="./caroussel.php" class="btn btn-rounded" style="margin:5">Films</a>
                 </li>
                 <li class="nav-item">
-                    <a href="#" class="btn btn-rounded" style="margin:5">Series</a>
+                    <a href="./caru.php" class="btn btn-rounded" style="margin:5">Series</a>
                 </li>
             </ul>
             <form class="form-inline my-2 my-lg-0" style="margin-right:100">

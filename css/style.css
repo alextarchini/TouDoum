@@ -349,6 +349,36 @@ padding:20px auto; */
     transition: opacity 1s;
 }
 
+/* CAROUSEL */
+        /* The heart of the matter */
+
+        .horizontal-scrollable>.row {
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+
+        .horizontal-scrollable>.row>.col-xs-4 {
+            display: inline-block;
+            float: none;
+        }
+
+        /* Decorations */
+
+        .col-xs-4 {
+            color: white;
+            font-size: 24px;
+            padding-bottom: 20px;
+            padding-top: 18px;
+        }
+
+        .col-xs-4:nth-child(2n+1) {
+            background: rgba(238, 14, 14, 0.8);
+        }
+
+        .col-xs-4:nth-child(2n+2) {
+            background: black;
+        }
+
 
 /* RESPONSIVE */
 /*Responsiveness, media query: put flex from rows to columns (container divs)*/
