@@ -10,212 +10,212 @@
 
 <div class="contain">
   <div class="row">
-    <div class="row__inner">
+    <div class="row_inner">
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="title__img" id="test"  alt=""  />
+        <div class="tile_media">
+          <img class="title_img" id="test"  alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" id="test1" />
+        <div class="tile_media">
+          <img class="tile_img" id="test1" />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" id="test2"  />
+        <div class="tile_media">
+          <img class="tile_img" id="test2"  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img4.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img4.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img33.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img33.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img24.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img24.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img7.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img7.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img22.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img22.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img27.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img27.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img1.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img1.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img9.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img9.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img11.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img11.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img25.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img25.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img37.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img37.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img29.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img29.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img30.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img30.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img5.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img5.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img4.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img4.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
       </div>
 
       <div class="tile">
-        <div class="tile__media">
-          <img class="tile__img" src="../img/img2.jpg" alt=""  />
+        <div class="tile_media">
+          <img class="tile_img" src="../img/img2.jpg" alt=""  />
         </div>
-        <div class="tile__details">
-          <div class="tile__title">
+        <div class="tile_details">
+          <div class="tile_title">
             Name of Film 
           </div>
         </div>
